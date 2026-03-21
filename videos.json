@@ -13,10 +13,25 @@
     "url": "https://res.cloudinary.com/dli3jcai3/video/upload/v1774063026/video3_as95ll.mp4",
     "description": "Escuha este chamame!",
     "category": "Musica"
-  },
+  },  
   {
     "url": "https://res.cloudinary.com/dli3jcai3/video/upload/v1774063028/video4_u2xy65.mp4",
     "description": "Un baile extraordinario",
     "category": "Baile"
+  },
+    {
+    "url": "https://res.cloudinary.com/dli3jcai3/video/upload/v1774067434/video5_scop3k.mp4",
+    "description": "Los leones son animales maravillosos",
+    "category": "Naturaleza"
+  },
+    {
+    "url": "https://res.cloudinary.com/dli3jcai3/video/upload/v1774067437/video7_ggygii.mp4",
+    "description": "Mira estas plantas de interior",
+    "category": "Plantas"
+  },
+    {
+    "url": "https://res.cloudinary.com/dli3jcai3/video/upload/v1774067445/video6_efulr5.mp4",
+    "description": "Paisajes hermosos",
+    "category": "Viajes"
   }
 ]
